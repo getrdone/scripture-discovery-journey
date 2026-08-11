@@ -75,7 +75,7 @@ For each serious candidate, verify:
 Write the description only after a title and real video promise are chosen.
 
 - Main prose must be **80–110 words**; aim for **95–105 words**.
-- Count the main descriptive prose only. Add fixed links, credits, disclosures, or compliance text separately and only when requested.
+- Count the main descriptive prose only. For evidence-based Scripture content, add a clearly labeled source block after it; the bibliography does not count against the prose target. Include the Bible passages/translations, quoted documents, historical sources, further study, and needed rights notices or attribution.
 - Sentence 1 confirms the title’s promise in plain language.
 - The middle names what the viewer will examine, see, compare, or learn without giving a vague trailer.
 - Include the main search phrase naturally when it fits; never stuff keywords.
@@ -133,7 +133,7 @@ For concept reports, name the rule in play and provide 3–4 concepts unless the
 
 - Deliver the primary informational or emotional payoff.
 - “Land the plane”: state why the evidence/story mattered.
-- End on a strong value or reflection moment, then bridge to one recommended deeper study and appropriate alternate paths.
+- End on a strong value or reflection moment, then bridge to the featured direct continuation and appropriate alternate paths.
 
 ## High-trust guardrails
 
