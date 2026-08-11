@@ -7,7 +7,6 @@ Use this file for YouTube topics, ideas, titles, descriptions, thumbnails, scrip
 - Entry lanes
 - Operating sequence
 - Title and idea category matrix (mandatory) — 17 categories × 4
-- Quick mode versus full packaging mode
 - YouTube description rule
 - Thumbnail and graphic package
 - Structure and retention
@@ -39,7 +38,7 @@ The idea sets the ceiling. Packaging earns the click. The video must repay it.
 **Quota:** **exactly 4 titles (or 4 idea lines) per category, every category, every request.**  
 **Scope:** any request for **titles**, **title packaging**, or **idea generation** for videos, Bible verses, Scripture Journey topics, shorts, or series ideas.
 
-Do **not** skip categories. Do **not** drop to “a few titles” unless the user explicitly overrides after seeing the full matrix. Do **not** use “quick mode” to hide categories.
+Do **not** skip categories. Do **not** substitute a short freeform list. The full **17 × 4** matrix is required for every title or idea-generation request.
 
 If a category is a weak fit, still produce **4** candidates and add a one-line note: `weak fit here because…`. Never leave a category blank.
 
@@ -115,12 +114,6 @@ When the user asks for ideas, topic menus, verse angles, or “what should we co
 ### Thumbnail gate
 Develop thumbnails only after the user selects a category and/or specific titles from the matrix (or has already locked a title).
 
-## Quick mode versus full packaging mode
-
-- **Default for titles and idea generation = full matrix** (all 17 categories × 4). This is not optional.
-- **Narrow rewrite mode only** when the user has already received the full matrix and asks to rewrite, rank, or expand a **named** subset (e.g. “rewrite the 4 Question titles” or “give 3 more SEO options”). Even then, do not silently replace the matrix requirement for a fresh title/idea request.
-- **Descriptions, scripts, structure, retention:** may be delivered without re-emitting the full title matrix if a title is already locked.
-- Ethics refine wording inside cells; they do **not** excuse omitting a category.
 
 ## YouTube description rule
 

@@ -51,7 +51,7 @@ Read only the indicated references, plus any file the user supplies:
 ## Dependency gates
 
 - **Topic discovery:** when no topic exists, provide a topic menu and stop for selection unless the user explicitly asks for further development in the same turn.
-- **Titles and idea generation:** require a real topic (or extract one from supplied content), audience, and deliverable payoff. **Always** emit the full **17-category matrix with exactly 4 titles or idea lines per category** from `references/youtube-planning.md` (aligned to YouTube Video Planner v1.1.1). Applies to video titles, video ideas, Bible-verse ideas, and topic menus. Do not skip categories; mark weak-fit categories but still produce 4 lines. Narrow rewrite of a user-selected subset is allowed only after a full matrix has been delivered.
+- **Titles and idea generation:** require a real topic (or extract one from supplied content), audience, and deliverable payoff. **Always** emit the full **17-category matrix with exactly 4 titles or idea lines per category** from `references/youtube-planning.md` (aligned to YouTube Video Planner v1.1.1). Applies to video titles, video ideas, Bible-verse ideas, and topic menus. Do not skip categories; mark weak-fit categories but still produce 4 lines. There is no quick mode or short-list mode for titles or ideas.
 - **YouTube descriptions:** write only after a title and real video promise are chosen. Main prose must be **80–110 words**, aiming for **95–105 words**.
 - **Thumbnails:** require a selected title, title family, or clearly locked promise. The title and thumbnail must complement rather than repeat each other.
 - **Video script/structure:** require a greenlit idea and viable package unless restructuring content that already exists.
