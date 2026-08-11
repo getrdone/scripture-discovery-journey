@@ -25,6 +25,8 @@ Use this file to plan, build, repair, or review semantic HTML/CSS/JavaScript exp
 - Use landmarks, one coherent heading outline, lists/tables/figures where structurally correct, and meaningful link/control labels.
 - Keep source order meaningful when styles fail.
 - Do not hide primary content behind JavaScript, accordions that require scripting, canvas, or client-only rendering.
+- For a Scripture Journey Page, place traceable inline citations beside the claims they support and include compact semantic end matter for passages/translations, references, further reading, and external links. Native `<details>`/`<summary>` disclosure may organize supporting detail but never hide the core answer or required evidence.
+- During review, every cited verse or passage must expose an accessible comparison beginning with KJV, then NLT, CSB, WEB, and NASB at minimum. Preserve the reviewer’s per-passage choice; do not force one translation across the page unless explicitly approved for that scope.
 - Use buttons for actions and links for navigation.
 - Add form labels, instructions, validation messages, autocomplete, appropriate input types, and consent/compliance language.
 - Prefer a self-contained HTML/CSS/JS deliverable when the project or hosting model calls for it; do not sacrifice maintainability or caching without reason.
@@ -65,7 +67,7 @@ Measure with current accessibility and Core Web Vitals tooling when available. T
 - Make the question, answer, evidence, entities, definitions, and relationships explicit in visible prose.
 - Add appropriate JSON-LD only when it matches the page type and visible content. Never fabricate reviews, authorship, dates, FAQ entries, or organizational facts.
 - Use concise answer-first passages where they improve comprehension; preserve nuance and source context.
-- Add citations/links to authoritative sources and identify Scripture translations or historical documents as needed.
+- Add citations/links to authoritative sources and identify exact Scripture translations/editions and historical documents as needed.
 - Keep essential answers crawlable in initial HTML.
 
 ## Interaction and conversion
@@ -74,9 +76,8 @@ Measure with current accessibility and Core Web Vitals tooling when available. T
 - Keep a primary action clear without hiding the study behind a form.
 - Ask for contact information only with a truthful, concrete value exchange and clear consent.
 - Preserve the learner’s ability to finish or continue without pressure.
-- When offering the next path, use the approved one-deeper-plus-four-alternates architecture.
+- When offering the next path, use the approved featured-direct-plus-four-alternates architecture: two more direct continuations, one moderately related question, and one wildcard.
 
 ## Release check
 
 The page is not complete merely because it validates. Confirm that the opening matches the promise, each section adds value, design reflects the subject, motion and interaction help, the primary payoff is explicit, and the next curiosity feels natural.
-
