@@ -64,5 +64,6 @@ Read only the indicated references, plus any file the user supplies:
 - Show reasoning only where it helps the user choose or verify.
 - Label facts, interpretation, recommendations, and open decisions when blending them could mislead.
 - Preserve source claims and citations. Do not invent evidence, testimonials, outliers, analytics, quotations, or Scripture support.
+- In a repository-backed project with `sources/registry.yaml`, read that registry before source-dependent work. Treat only records with an applicable `approval.status: approved` as authoritative starting or reference material. Files in `sources/intake/` are never authoritative merely because they exist.
 - Gate results are only `PASS`, `FAIL`, or `BLOCKED`, with concise evidence. Completion alone cannot produce a pass.
 - For a narrow task, apply the whole shared spine silently and return the narrow result.
