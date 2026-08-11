@@ -19,4 +19,39 @@ categories:
   - contemporary
   - creative
 
-sources: []
+sources:
+  - id: mopt-ministry-youtube-channel
+    record: sources/library/trusted/mopt-ministry-youtube-channel/record.yaml
+    authority_class: trusted
+    approval_status: approved
+    scope:
+      - research-starting-point
+      - claim-level-verification-required
+  - id: stephen-bohr-prophecys-repeating-sequence
+    record: sources/library/trusted/stephen-bohr-prophecys-repeating-sequence/record.yaml
+    authority_class: trusted
+    approval_status: approved
+    scope:
+      - research-starting-point
+      - claim-level-verification-required
+  - id: stephen-bohr-great-prophecies-daniel-revelation
+    record: sources/library/trusted/stephen-bohr-great-prophecies-daniel-revelation/record.yaml
+    authority_class: trusted
+    approval_status: approved
+    scope:
+      - research-starting-point
+      - claim-level-verification-required
+  - id: heritage-and-hope-youtube-channel
+    record: sources/library/trusted/heritage-and-hope-youtube-channel/record.yaml
+    authority_class: trusted
+    approval_status: approved
+    scope:
+      - research-starting-point
+      - sunday-law-updates-priority
+      - claim-level-verification-required
+  - id: stephen-bohr-physical-transcripts-pending-correction
+    record: sources/intake/stephen-bohr-physical-transcripts-pending-correction/record.yaml
+    authority_class: trusted
+    approval_status: under-review
+    scope:
+      - transcript-correction-only
