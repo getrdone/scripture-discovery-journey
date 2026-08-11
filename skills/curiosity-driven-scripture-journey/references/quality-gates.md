@@ -9,6 +9,8 @@ Use only the gates relevant to the artifact. A gate may produce PASS, FAIL, or B
 - Emotion serves meaning rather than manipulation.
 - No fear escalation, guilt, shame, coercion, false urgency, deceptive certainty, sensationalism, or manufactured suspense.
 - Facts, interpretation, application, and speculation are distinguished where needed.
+- Scripture-first reasoning is preserved; modern consensus, popularity, or institutional acceptance is not used as proof.
+- Every material lexical, historical, cultural, translation, doctrinal, quotation, or external factual claim has a traceable source, with inline support and complete end references.
 - Imagery respects the absolute content boundary.
 
 ## 2. Planning gate
@@ -21,6 +23,7 @@ For substantial production:
 - visual direction and interaction plan exist;
 - new HTML build status is `approved-for-build`;
 - downstream artifact inherits locked decisions.
+- approval to draft has not been misreported as approval of the draft; unaccepted agent choices remain candidates.
 
 ## 3. Learning/content gate
 
@@ -59,6 +62,8 @@ For substantial production:
 - Core content and navigation exist in semantic HTML and work without JavaScript.
 - Heading outline, landmarks, links, buttons, forms, media alternatives, focus, keyboard use, zoom/reflow, and contrast are sound.
 - Metadata and JSON-LD are accurate and match visible content.
+- Every cited passage received a review opportunity beginning with KJV, NLT, CSB, WEB, and NASB at minimum; the approved version is recorded per passage or for an explicitly approved larger scope.
+- Scripture translation labels, inline citations, and end references are present, traceable, accessible, and usable without JavaScript.
 - CSS is responsive, scoped, and derived from the visual direction.
 - Images, fonts, scripts, third parties, layout stability, and interaction cost are within the project’s performance budget.
 - Normal motion is default; `prefers-reduced-motion: reduce` is honored on request.
@@ -73,4 +78,3 @@ For substantial production:
 - The experience avoids repetitive templates and unnecessary friction.
 - The ending resolves the promise and opens a sincere next curiosity.
 - The requested artifact is complete at its current scope; unresolved dependencies are named rather than hidden.
-
