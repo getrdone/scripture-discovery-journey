@@ -1,0 +1,22 @@
+version: 1
+
+policy:
+  default_use: approved-only
+  intake_is_authoritative: false
+  inclusion_implies_theological_approval: false
+  scripture_remains_primary: true
+  require_provenance: true
+  require_rights_record: true
+  require_checksum_for_stored_original: true
+
+categories:
+  - scripture
+  - textual-tools
+  - reformation
+  - adventist-pioneers
+  - trusted
+  - historical
+  - contemporary
+  - creative
+
+sources: []
