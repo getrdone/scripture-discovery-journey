@@ -51,6 +51,8 @@ For substantial production:
 
 - Idea and packaging are distinguished.
 - Title opens one honest gap and the content closes it.
+- For any title or idea-generation request, the full 17-category matrix was produced with exactly 4 lines per category (YouTube Video Planner v1.1.1 set in `youtube-planning.md`).
+- Weak-fit categories are still filled (4 lines each) with an explicit weak-fit note rather than omitted.
 - Thumbnail complements rather than repeats the title.
 - Description follows the chosen package and is 80–110 words, aiming at 95–105.
 - Opening confirms the package immediately.

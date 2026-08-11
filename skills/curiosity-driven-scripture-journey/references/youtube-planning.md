@@ -33,42 +33,94 @@ Separate **generation** from **filtration** at every stage.
 
 The idea sets the ceiling. Packaging earns the click. The video must repay it.
 
-## Quick mode versus full packaging mode
+## Title and idea category matrix (mandatory)
 
-- **Quick mode:** when the user asks for “a few,” a fixed count, rewrites, descriptions, or one category, return exactly that slice. Use the category system internally and explain only meaningful tradeoffs.
-- **Full packaging mode:** explore the category matrix, normally four titles per applicable category, identify the strongest category and top test candidates, then stop for title/category selection before thumbnail work.
-- Ethics override quotas. Never manufacture fear, urgency, authority, proof, controversy, or a weak category merely to fill a matrix.
+**Source of categories:** YouTube Video Planner v1.1.1 Packaging Report (aligned 1:1).  
+**Quota:** **exactly 4 titles (or 4 idea lines) per category, every category, every request.**  
+**Scope:** any request for **titles**, **title packaging**, or **idea generation** for videos, Bible verses, Scripture Journey topics, shorts, or series ideas.
 
-## Title system
+Do **not** skip categories. Do **not** drop to “a few titles” unless the user explicitly overrides after seeing the full matrix. Do **not** use “quick mode” to hide categories.
 
-Aim under about 65 characters, front-load the clearest important words, use roughly 5th-grade language, and open one honest information gap.
+If a category is a weak fit, still produce **4** candidates and add a one-line note: `weak fit here because…`. Never leave a category blank.
 
-Evaluate these lenses as appropriate:
+Ethics still apply inside every cell:
+- one honest curiosity gap per line;
+- content must be able to pay off the promise;
+- no fear escalation, FOMO, scarcity, sensational prophecy, deceptive certainty, or false urgency;
+- Fear / Loss, Urgency / Timely, Warning / Protection, and Risk-style lines may name a **real** consequence only in sober, accurate language;
+- Authority / Proof only with real receipts available in the study/video;
+- Pattern / Fulfillment only with defensible textual or historical linkage.
 
-- Curiosity/information gap
-- Desire/hope
-- Search-friendly/SEO
-- Relatability/identity
-- Authority/proof, only with real receipts
-- Contrarian/novelty, only with a defensible distinction
-- Risk/consequence, only when accurate and non-sensational
-- Story/emotion
-- Question
-- Practical value/how-to
-- Comparison/versus
-- Testimonial/real story
-- Prediction/what’s next, with explicit uncertainty where needed
+### Operating sequence for title or idea requests
 
-For Scripture/ministry work, do not use fear escalation, FOMO, scarcity, sensational prophecy, deceptive certainty, or false urgency. A sober warning may name a real consequence without dramatizing it.
+1. Confirm working topic / verse / promise (or extract it from supplied content).
+2. Emit the **full category matrix** below with **exactly 4** lines under each category.
+3. Mark **best-fit category** (+ one sentence why).
+4. List **top 3–5 to A/B test** as `(title or idea | category | gap)`, including a control near any existing title if one exists.
+5. **Browse vs search:** one line.
+6. For **titles** (not pure topic menus): stop and ask which category or titles to develop into thumbnails **before** thumbnail concepts—unless the user already selected titles.
+7. For **idea-only** menus (Lane C / topic discovery): stop for selection before packaging unless the user asked to continue in the same turn.
 
-For each serious candidate, verify:
+### Idea generation mode (videos or Bible verses)
 
+When the user asks for ideas, topic menus, verse angles, or “what should we cover,” use the **same 17 categories**. Under each category output **exactly 4 idea lines** (working title-style phrasing is fine). Each idea line must name:
+- the curiosity question or angle;
+- the promised payoff in one short clause;
+- (for verse work) the primary Scripture anchor when known.
+
+`Idea = Topic × Format × Angle` still applies inside each cell when inventing video concepts.
+
+### The 17 categories (always — 4 lines each)
+
+#### Core (always)
+1. **🔍 Curiosity** — opens an information gap the viewer/learner must engage to close.
+2. **😱 Fear / Loss** — a risk, mistake, or warning to avoid (sober, non-sensational for ministry).
+3. **✨ Desire / Hope** — a wanted outcome, comfort, or transformation.
+4. **🔎 Search-friendly / SEO** — keyword-forward, phrased how people actually search.
+5. **🪞 Relatability / Identity** — “if you’re a ___, this is for you.”
+6. **🏆 Authority / Proof** — numbers, named results, credibility, receipts (only if real).
+7. **⚡ Contrarian / Novelty** — myth-bust, “nobody tells you,” defensible surprising angle.
+
+#### Strong additional (always evaluate — still 4 each)
+8. **⏰ Urgency / Timely** — time element, current event, deadline, or now-vs-later (no false urgency).
+9. **❤️ Story / Emotional** — personal narrative, transformation, or felt stakes.
+10. **❓ Question** — direct question with a tighter open loop than a statement.
+11. **🛡️ Warning / Protection** — specific trap, deception, or how to stay safe (accurate only).
+12. **📜 Pattern / Fulfillment** — “this was said… and here is the evidence” angles.
+13. **🌱 Growth / Next Step** — practical change, obedience, or how to live it out.
+14. **🔄 Comparison / Contrast** — A vs B, common view vs clearer reading.
+
+#### Situational / secondary (always evaluate — still 4 each)
+15. **👥 Community / Belonging** — “people like us” / shared identity pull.
+16. **📖 Source Spotlight** — centers a verse, document, quote, or primary text as the driver.
+17. **🔥 Challenge / Call** — soft invitation to act or decide; brand-appropriate, non-coercive.
+
+**Math check:** 17 categories × 4 = **68** title or idea lines before best-fit / A/B shortlist.
+
+### Title mechanics (every line)
+- Aim under ~65 characters for YouTube titles; idea lines may run slightly longer if needed for clarity.
+- Front-load the most important words.
+- ~3rd–5th-grade reading level; short synonyms.
+- Exactly one strong curiosity gap per line.
+- Match high-trust / ministry tone; offer a reverent variant when a punchier line risks overclaim.
+
+### Per serious shortlist candidate, verify
 - the exact question it opens;
 - the real payoff that closes it;
 - browse versus search intent;
 - audience breadth versus qualification;
-- whether the content already contains the promised evidence;
-- whether the title sounds like this channel rather than a generic title generator.
+- whether the content already contains (or can contain) the promised evidence;
+- whether it sounds like this channel rather than a generic title generator.
+
+### Thumbnail gate
+Develop thumbnails only after the user selects a category and/or specific titles from the matrix (or has already locked a title).
+
+## Quick mode versus full packaging mode
+
+- **Default for titles and idea generation = full matrix** (all 17 categories × 4). This is not optional.
+- **Narrow rewrite mode only** when the user has already received the full matrix and asks to rewrite, rank, or expand a **named** subset (e.g. “rewrite the 4 Question titles” or “give 3 more SEO options”). Even then, do not silently replace the matrix requirement for a fresh title/idea request.
+- **Descriptions, scripts, structure, retention:** may be delivered without re-emitting the full title matrix if a title is already locked.
+- Ethics refine wording inside cells; they do **not** excuse omitting a category.
 
 ## YouTube description rule
 

@@ -73,3 +73,14 @@ Use only as conservative clarity aids:
 
 Exclude hypnotic/vague language, covert influence, emotional conditioning, spin, manipulation, and the entire “seduction” branch. If uncertain, use plain, explicit communication.
 
+## Titles and idea generation
+
+When the user asks for **titles**, **headline options**, **topic ideas**, **verse angles**, or **video ideas**, do not invent an ad-hoc short list.
+
+Load and follow `references/youtube-planning.md` **Title and idea category matrix (mandatory)**:
+- all **17** categories;
+- **exactly 4** title or idea lines per category;
+- best-fit category + top 3–5 A/B shortlist after the full matrix.
+
+This is the same matrix as YouTube Video Planner v1.1.1, adapted for high-trust Scripture work.
+

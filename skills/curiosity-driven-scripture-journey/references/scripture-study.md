@@ -14,6 +14,10 @@ Use this file for Bible-study questions, Scripture Journey Pages, evidence plans
 
 ## Topic and content plan
 
+When generating **topic ideas**, **verse-study ideas**, or **titles** for a Scripture asset, use the mandatory **17-category × 4** matrix in `references/youtube-planning.md` (same categories as YouTube Video Planner v1.1.1). Do not substitute a short freeform list.
+
+
+
 Before substantial production, define:
 
 - core curiosity question;
