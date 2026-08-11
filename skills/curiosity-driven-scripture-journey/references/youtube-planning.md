@@ -6,8 +6,8 @@ Use this file for YouTube topics, ideas, titles, descriptions, thumbnails, scrip
 
 - Entry lanes
 - Operating sequence
+- Title and idea category matrix (mandatory) — 17 categories × 4
 - Quick mode versus full packaging mode
-- Title system
 - YouTube description rule
 - Thumbnail and graphic package
 - Structure and retention
