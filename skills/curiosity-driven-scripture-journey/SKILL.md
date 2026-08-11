@@ -31,7 +31,7 @@ Read only the indicated references, plus any file the user supplies:
 | --- | --- |
 | Start a project, resume from mixed artifacts, set status, or coordinate several deliverables | `references/project-system.md` |
 | Find or approve a topic, map a learning journey, write general teaching copy, or choose a writing framework | `references/learning-and-writing.md` |
-| Plan or write a Bible study, Scripture Journey Page, evidence path, interactions, or next-study choices | `references/scripture-study.md` and `references/learning-and-writing.md` |
+| Plan or write a Bible study, Scripture Journey Page, evidence path, source trail, translation review, interactions, or next-study choices | `references/scripture-study.md` and `references/learning-and-writing.md` |
 | Generate or review YouTube ideas, titles, descriptions, packaging, video structure, scripts, or retention | `references/youtube-planning.md`; also read `references/learning-and-writing.md` for content or scripts |
 | Create or review a thumbnail, graphic, moodboard, visual direction, typography, palette, layout, or motion language | `references/visual-system.md`; add `references/youtube-planning.md` for thumbnails |
 | Build or review HTML/CSS/JS, landing pages, interactions, SEO/AEO/GEO, performance, or accessibility | `references/web-experience.md`; also read `references/visual-system.md` and the content lane |
@@ -56,7 +56,7 @@ Read only the indicated references, plus any file the user supplies:
 - **Thumbnails:** require a selected title, title family, or clearly locked promise. The title and thumbnail must complement rather than repeat each other.
 - **Video script/structure:** require a greenlit idea and viable package unless restructuring content that already exists.
 - **New production HTML:** require `status: approved-for-build` and an approved content plan, visual direction, and interaction plan. Audits and narrow repairs may proceed against an existing page without inventing a new concept.
-- **Approval:** never infer an approval status from silence. A user choice or explicit instruction to proceed counts as approval for that gate.
+- **Approval:** never infer an approval status from silence. Approval to draft is not approval of the draft. Agent-selected decisions remain candidates until the user accepts them. A user choice or explicit instruction to proceed counts as approval only for that named gate. Scripture translation approval is passage-specific unless the user explicitly approves one version for a defined larger scope.
 
 ## Output discipline
 
@@ -64,4 +64,5 @@ Read only the indicated references, plus any file the user supplies:
 - Show reasoning only where it helps the user choose or verify.
 - Label facts, interpretation, recommendations, and open decisions when blending them could mislead.
 - Preserve source claims and citations. Do not invent evidence, testimonials, outliers, analytics, quotations, or Scripture support.
+- Gate results are only `PASS`, `FAIL`, or `BLOCKED`, with concise evidence. Completion alone cannot produce a pass.
 - For a narrow task, apply the whole shared spine silently and return the narrow result.
