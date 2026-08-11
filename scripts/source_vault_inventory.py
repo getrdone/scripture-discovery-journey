@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Inventory a private source vault without copying or reading source content into AI context."""
+"""Inventory a private source vault without copying or reading source content into AI context.
+
+Lives in agent-skills under processing/source-vault/. Consumer projects keep sources/registry.yaml.
+"""
 
 from __future__ import annotations
 
@@ -14,7 +17,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
-DEFAULT_SOURCE_ROOT = Path("/mnt/f/-- claude/ministry/bible-study-source-materials")
+DEFAULT_SOURCE_ROOT = Path(os.environ.get("SOURCE_VAULT_ROOT", ".")).expanduser()
 IGNORED_NAMES = {".DS_Store", "Thumbs.db", "desktop.ini"}
 IGNORED_DIRS = {".git", ".svn", "__pycache__"}
 DANGEROUS_EXTENSIONS = {
