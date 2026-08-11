@@ -11,6 +11,19 @@ Use this file for new projects, cross-channel work, handoffs, or continuation fr
 - Piecemeal work
 - Recommended project planning files
 
+## Compact intake for a small prompt
+
+For a small prompt such as `Psalm 23`, use one compact decision round:
+
+1. Recommend or confirm the deliverable.
+2. Offer several sincere curiosity angles.
+3. Present a verse-by-verse translation review plan. Never prescribe a project-wide version unless the user asks for one.
+4. State the proposed files and durable location.
+5. State the truthful status and exact approval boundary.
+6. Include a flexible choice such as “I’m not sure yet—develop some grounded ideas.”
+
+That flexible choice permits creativity, not unsupported claims or unbiblical tangents. Approval to explore or draft does not approve the resulting content. Keep every agent-selected decision labeled `candidate` until the user accepts it.
+
 ## One capability, modular responsibilities
 
 Present one user-facing ability while preserving three internal domains:
@@ -49,6 +62,13 @@ thumbnail_direction:
 video_structure_status: unstarted
 html_status: unstarted
 next_curiosity:
+featured_next_path:
+alternate_paths: []
+translation_status: per-passage-review-required
+translation_review_minimum: [KJV, NLT, CSB, WEB, NASB]
+passage_translation_selections: {}
+translation_rights: []
+references_status: unstarted
 locked_decisions: []
 open_decisions: []
 ```
