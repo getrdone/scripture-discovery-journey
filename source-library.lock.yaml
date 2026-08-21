@@ -1,0 +1,11 @@
+# Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-08-21
+repository: getrdone/bible-study-source-materials
+snapshot: cf6a06bd156b70cb68d473a59d699deb1e96482f
+snapshot_url: https://github.com/getrdone/bible-study-source-materials/tree/cf6a06bd156b70cb68d473a59d699deb1e96482f
+registry_path: registry.yaml
+registry_version: 2
+database_path: database/sources.sqlite3
+database_schema_version: 2
+database_sha256: 64dfccedee4290dafad2aff332e3528decfd4ce7a3925c6bc68637b1b3027097
+default_use: approved-only
+intake_is_authoritative: false
