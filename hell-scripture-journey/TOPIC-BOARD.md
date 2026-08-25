@@ -4,11 +4,11 @@
 
 | Artifact | Status | Path | Notes |
 |----------|--------|------|-------|
-| Project brief | candidate | project-brief.md | Core question locked as candidate |
-| Content plan | in progress | planning/content-plan_grok.md | Scripture-to-Scripture evidence path |
-| Source alignment | unstarted | — | Pure Scripture focus per request; no denominational labels |
-| HTML page | unstarted | deliverables/ | Awaits content-approved + approved-for-build |
+| Project brief | candidate | project-brief.md | Core question + evidence path + learning patterns recorded |
+| Content plan | candidate | planning/content-plan_grok.md | Full Scripture-to-Scripture sequence |
+| Source alignment | N/A (pure Scripture) | — | Explicit request: no denominational labels or external sources in public content |
+| HTML page | unstarted | deliverables/ | Requires content-approved → approved-for-build |
 | Titles / packaging | unstarted | — | |
 
 ## Next action
-Confirm or revise core question and evidence path, then advance status.
+Review core question, evidence path, and learning patterns. Confirm to advance status to content-approved, or request changes.
