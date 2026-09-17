@@ -1,7 +1,7 @@
-# Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-08-21
-repository: getrdone/bible-study-source-materials
+# Agent: ChatGPT Web | Model: GPT-5.6 Sol | Thinking: not exposed | Date: 2026-09-17
+repository: getrdone/bible-studies--source-material
 snapshot: cf6a06bd156b70cb68d473a59d699deb1e96482f
-snapshot_url: https://github.com/getrdone/bible-study-source-materials/tree/cf6a06bd156b70cb68d473a59d699deb1e96482f
+snapshot_url: https://github.com/getrdone/bible-studies--source-material/tree/cf6a06bd156b70cb68d473a59d699deb1e96482f
 registry_path: registry.yaml
 registry_version: 2
 database_path: database/sources.sqlite3
