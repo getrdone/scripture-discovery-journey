@@ -25,4 +25,9 @@ Before planning, writing, designing, building, testing, or reviewing:
 13. Never infer approval from silence.
 14. Do **not** edit the master skill inside this repository; open a PR against **agent-skills**.
 
-Local path `skills/curiosity-driven-scripture-journey/` is a pointer only. `source-library.lock.yaml` is also a pointer: it does not make this repository a source authority.
+Load the installed managed skill or the canonical library directly; there is no project-local skill alias. `source-library.lock.yaml` is also a pointer: it does not make this repository a source authority.
+
+
+## Authoritative skills and work placement
+
+Use `G:/__ai-projects/_agent-skills/CATALOG.md` to discover current skills; resolve releases through their CURRENT/STABLE selectors. That library contains all managed instructions and resources. Do not use old aliases or archived skills as fallback instructions. Put drafts, temporary plans, experiments and diagnostic captures in project `_wip/<task>/`, not root or planning/. Put reusable project utilities in `_tools/` and consult the master `G:/__ai-projects/_agent-skills/_tools/TOOLS.md` first. Preserve accepted plans, source, tests, assets, deliverables and project-specific locks. Complete authorized work in cohesive verifiable chunks without elapsed-time quotas or automatic kills.
